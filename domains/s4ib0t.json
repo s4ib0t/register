@@ -1,10 +1,11 @@
 {
         "owner": {
            "username": "s4ib0t",
-           "email": "hilmansyah.amd.kom@gmail.com"
+           "email": "s4ib0t.3@gmail.com"
         },
         "record": {
-            "CNAME": "s4ib0t.github.io"
+            "CNAME": "s4ib0t.github.io",
+            "MX": ["mx1.forwardemail.net","mx2.forwardemail.net"],
+            "TXT": "forward-email=baokheunceutofficial@gmail.com"
         }
-    }
-    
+}
